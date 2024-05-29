@@ -1,0 +1,27 @@
+[
+  { "username": "rohit", "email": "rohit@reqres.in", "password": "2000" },
+  { "username": "kamal", "email": "kamal@gmail.com", "password": "k123" },
+  {
+    "username": "tlahari",
+    "email": "lahari@reqres.in",
+    "password": "lahari123"
+  },
+  { "username": "123", "email": "gfdsa", "password": "asdfgh" },
+  { "username": "hgfds", "email": "hgfds", "password": "hgfds" },
+  { "username": "dfghj", "email": "kjhbvc", "password": "jbv" },
+  { "username": "Dhoni", "email": "dhoni.ms@reqres.in", "password": "dhoni7" },
+  { "username": "lahari", "email": "laharireqres.in", "password": "123456" },
+  {
+    "username": "virat",
+    "email": "kohlivirat@reqres.in",
+    "password": "kohli123"
+  },
+  {},
+  { "username": "vignesh", "password": "123456" },
+  {
+    "username": "vignesh123",
+    "email": "vignesh@reqres.in",
+    "password": "123456"
+  },
+  { "username": "abcd", "email": "xyz@reqres.in", "password": "abcd" }
+]
